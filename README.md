@@ -4,14 +4,14 @@ SCRIPT FOLDER
        Authors: Maria Paula Perez P.                                                   
                 Barron Henderson, PhD                                                  
        email : mpperezpena@hotmail.com                                                 
-       Period: February 2016                                                           
+       Period: Work developed for 2012 RPM-EI in 2015                                                           
        Contents: This folder contains the scripts developed to estimate Natural        
        Mitigation Factors for paved and unpaved roads, codes require MCIP ouputs       
        (METCRO2D and GRIDCRO2D), they work under any TSTEP, LAY, ROW, COL              
        within the AQM model set-up                                                     
        Last update: April 2016                                                         
 ___________
-|--FOLDERS
+|--SCRIPTS
 ___________
 
           ****THE SCRIPTS ARE LISTED IN THE SEQUENTIAL ORDER AS SHOULD BE USED
